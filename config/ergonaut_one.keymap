@@ -67,6 +67,16 @@
             bindings = <&kp RIGHT_CONTROL>;
             key-positions = <20 21>;
         };
+
+        l-shift-control {
+            bindings = <&kp LS(LEFT_CONTROL)>;
+            key-positions = <14 15 16>;
+        };
+
+        r-shift-control {
+            bindings = <&kp RS(RIGHT_CONTROL)>;
+            key-positions = <19 20 21>;
+        };
     };
 
     keymap {
