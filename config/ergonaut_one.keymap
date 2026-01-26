@@ -77,6 +77,11 @@
             bindings = <&kp RS(RIGHT_CONTROL)>;
             key-positions = <19 20 21>;
         };
+
+        sway-ws-back-n-forth {
+            bindings = <&kp LG(G)>;
+            key-positions = <8 7>;
+        };
     };
 
     keymap {

@@ -363,6 +363,10 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="644" dy="-0.6em" style="font-size: 78%">Sft+RIGHT</tspan><tspan x="644" dy="1.2em" style="font-size: 78%">CONTROL</tspan>
 </text>
 </g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="602" y="18" width="28" height="26" class="combo"/>
+<text x="616" y="32" class="combo tap">Gui+G</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 331)" class="layer-Numbers - controls">
@@ -579,6 +583,10 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="644" dy="-0.6em" style="font-size: 78%">Sft+RIGHT</tspan><tspan x="644" dy="1.2em" style="font-size: 78%">CONTROL</tspan>
 </text>
 </g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="602" y="18" width="28" height="26" class="combo"/>
+<text x="616" y="32" class="combo tap">Gui+G</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 661)" class="layer-Symbols">
@@ -780,6 +788,10 @@ path.combo { stroke: #7f7f7f; }
 <text x="644" y="89" class="combo tap">
 <tspan x="644" dy="-0.6em" style="font-size: 78%">Sft+RIGHT</tspan><tspan x="644" dy="1.2em" style="font-size: 78%">CONTROL</tspan>
 </text>
+</g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="602" y="18" width="28" height="26" class="combo"/>
+<text x="616" y="32" class="combo tap">Gui+G</text>
 </g>
 </g>
 </g>
@@ -988,6 +1000,10 @@ path.combo { stroke: #7f7f7f; }
 <text x="644" y="89" class="combo tap">
 <tspan x="644" dy="-0.6em" style="font-size: 78%">Sft+RIGHT</tspan><tspan x="644" dy="1.2em" style="font-size: 78%">CONTROL</tspan>
 </text>
+</g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="602" y="18" width="28" height="26" class="combo"/>
+<text x="616" y="32" class="combo tap">Gui+G</text>
 </g>
 </g>
 </g>
@@ -1222,6 +1238,10 @@ path.combo { stroke: #7f7f7f; }
 <text x="644" y="89" class="combo tap">
 <tspan x="644" dy="-0.6em" style="font-size: 78%">Sft+RIGHT</tspan><tspan x="644" dy="1.2em" style="font-size: 78%">CONTROL</tspan>
 </text>
+</g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="602" y="18" width="28" height="26" class="combo"/>
+<text x="616" y="32" class="combo tap">Gui+G</text>
 </g>
 </g>
 </g>
