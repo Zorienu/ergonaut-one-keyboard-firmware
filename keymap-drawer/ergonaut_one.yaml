@@ -228,5 +228,3 @@ combos:
   k: Sft+LEFT CONTROL
 - p: [19, 20, 21]
   k: Sft+RIGHT CONTROL
-- p: [8, 7]
-  k: Gui+G
