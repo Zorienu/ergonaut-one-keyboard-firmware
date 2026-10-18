@@ -43,6 +43,49 @@ layers:
   - ENTER
   - Symbols
   - BACKSPACE
+  PLAY:
+  - {t: ↹, h: LEFT ALT}
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - {t: '-', h: RIGHT ALT}
+  - Ctrl
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - {t: ;, h: RIGHT GUI}
+  - ESCAPE
+  - LEFT SHIFT
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - {t: KP DIVIDE, h: RIGHT SHIFT}
+  - LEFT WIN
+  - Numbers - controls
+  - ␣
+  - ENTER
+  - Symbols
+  - BACKSPACE
   Numbers - controls:
   - {t: ▽, type: trans}
   - '1'
@@ -215,46 +258,3 @@ layers:
   - Left Click
   - Middle Click
   - Right Click
-  PLAY:
-  - {t: ↹, h: LEFT ALT}
-  - Q
-  - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
-  - P
-  - {t: '-', h: RIGHT ALT}
-  - Ctrl
-  - A
-  - S
-  - D
-  - F
-  - G
-  - H
-  - J
-  - K
-  - L
-  - {t: ;, h: RIGHT GUI}
-  - ESCAPE
-  - LEFT SHIFT
-  - Z
-  - X
-  - C
-  - V
-  - B
-  - N
-  - M
-  - ','
-  - .
-  - /
-  - {t: KP DIVIDE, h: RIGHT SHIFT}
-  - LEFT WIN
-  - Numbers - controls
-  - ␣
-  - ENTER
-  - Symbols
-  - BACKSPACE
