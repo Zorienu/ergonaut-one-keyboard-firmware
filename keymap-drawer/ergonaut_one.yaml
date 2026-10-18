@@ -149,8 +149,8 @@ layers:
   - BT 4
   - BT 5
   - {t: PLAY, h: toggle}
-  - ''
-  - ''
+  - {t: PLAY, h: toggle}
+  - {t: MAIN, h: toggle}
   - ''
   - ''
   - ''
