@@ -13,18 +13,18 @@ layers:
   - O
   - P
   - {t: '-', h: RIGHT ALT}
-  - Ctrl
-  - A
-  - S
-  - D
-  - F
+  - {t: ESCAPE, h: Ctrl}
+  - {t: A, h: LEFT GUI}
+  - {t: S, h: LEFT ALT}
+  - {t: D, h: LEFT CONTROL}
+  - {t: F, h: LEFT SHIFT}
   - G
   - H
-  - J
-  - K
-  - L
+  - {t: J, h: RIGHT SHIFT}
+  - {t: K, h: RIGHT CONTROL}
+  - {t: L, h: RIGHT ALT}
   - {t: ;, h: RIGHT GUI}
-  - ESCAPE
+  - {t: '''', h: Ctrl}
   - LEFT SHIFT
   - Z
   - X
@@ -39,7 +39,7 @@ layers:
   - {t: KP DIVIDE, h: RIGHT SHIFT}
   - LEFT WIN
   - Numbers - controls
-  - ␣
+  - {t: ␣, h: Mouse}
   - ENTER
   - Symbols
   - BACKSPACE
@@ -148,7 +148,7 @@ layers:
   - BT 3
   - BT 4
   - BT 5
-  - {t: MAIN, h: toggle}
+  - {t: PLAY, h: toggle}
   - ''
   - ''
   - ''
@@ -215,3 +215,46 @@ layers:
   - Left Click
   - Middle Click
   - Right Click
+  PLAY:
+  - {t: ↹, h: LEFT ALT}
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - {t: '-', h: RIGHT ALT}
+  - Ctrl
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - {t: ;, h: RIGHT GUI}
+  - ESCAPE
+  - LEFT SHIFT
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - {t: KP DIVIDE, h: RIGHT SHIFT}
+  - LEFT WIN
+  - Numbers - controls
+  - ␣
+  - ENTER
+  - Symbols
+  - BACKSPACE
